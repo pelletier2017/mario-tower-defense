@@ -1,0 +1,9 @@
+@import url("menu.css");
+
+.root {
+    -fx-font-family: "Tahoma";
+}
+
+.label {
+	-fx-font-size: 25pt;
+}

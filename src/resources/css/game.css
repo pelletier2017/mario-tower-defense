@@ -1,0 +1,7 @@
+@import url("menu.css");
+
+.root {
+	-fx-background-image: url("../images/shop_background.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover, auto;
+}

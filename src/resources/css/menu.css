@@ -1,0 +1,25 @@
+.root {
+	-fx-background-image: url("../images/clouds2.jpg");
+	-fx-background-repeat: repeat;
+	-fx-font-family: "Tahoma";
+}
+
+.button {
+	-fx-background-color: #1b9b73;
+	-fx-text-fill: white;
+	-fx-background-radius: 10px;
+	-fx-font-weight: bolder;
+	-fx-font-size: 20pt;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 3 , 0 );
+}
+
+.label {
+	-fx-font-size: 55pt;
+	-fx-text-fill: #FFB85F;
+	-fx-font-weight: bolder;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 3 , 0 );
+}
+
+.button:hover {
+	-fx-background-color: #1bba88;
+}
