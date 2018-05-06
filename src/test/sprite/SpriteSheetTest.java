@@ -2,12 +2,11 @@ package test.sprite;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.junit.Test;
-
 import javafx.embed.swing.JFXPanel;
 import javafx.scene.canvas.Canvas;
 import model.sprite.SpriteSheet;
 import model.sprite.SpriteSheetLoader;
+import org.junit.jupiter.api.Test;
 
 public class SpriteSheetTest {
 	@Test

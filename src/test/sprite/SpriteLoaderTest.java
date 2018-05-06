@@ -1,12 +1,11 @@
 package test.sprite;
 
-import static org.junit.Assert.assertNotEquals;
-
-import org.junit.Test;
-
 import javafx.embed.swing.JFXPanel;
 import model.sprite.SpriteSheetLoader;
 import model.sprite.SpriteSheet;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 class SpriteLoaderTest {
     

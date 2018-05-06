@@ -1,14 +1,13 @@
 package test.animation;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotEquals;
-
-import org.junit.Test;
-
 import javafx.embed.swing.JFXPanel;
 import model.entity.animation.Animation;
 import model.entity.animation.AnimationState;
 import model.entity.enemy.EnemyType;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 public class AnimationTest1 {
 	

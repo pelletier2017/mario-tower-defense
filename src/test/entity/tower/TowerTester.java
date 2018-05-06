@@ -2,8 +2,6 @@ package test.entity.tower;
 
 import org.junit.jupiter.api.Test;
 
-
-import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.*;
 
 import javafx.embed.swing.JFXPanel;
@@ -22,15 +20,12 @@ public class TowerTester {
 		ArrowTower arrowTower = new ArrowTower(200, 200, true);
 		arrowTower.setUpgadeCost(50);
 		assertTrue( arrowTower.getUpgradeCost() == 50);
-		
 		assertTrue( arrowTower.getBuildCost( ) > 0 );
 		
 		arrowTower.playBuiltSoundEffect();
-		
 		arrowTower.playDestroyedSoundEffect();
 		
 		assertTrue( arrowTower.getReloadTime() > 0 );
-		
 		assertTrue( arrowTower.getTowerType() == TowerType.ARROW_TOWER);
 		
 		final Canvas canvas = new Canvas(250,250);

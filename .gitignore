@@ -1,2 +1,6 @@
 #Ignore the compiled bin contents to prevent merge conflicts on binary files
 /bin/
+
+# Ignore Intellij generated files
+*.iml
+*.idea

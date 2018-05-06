@@ -1,0 +1,6 @@
+.label {
+	-fx-font-size: 15pt;
+	-fx-text-fill: #FFB85F;
+	-fx-font-weight: bolder;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 3 , 0 );
+}

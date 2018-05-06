@@ -1,7 +1,7 @@
 package test.entity.tower;
 
-import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.ArrayList;
 
@@ -10,7 +10,6 @@ import org.junit.jupiter.api.Test;
 import javafx.embed.swing.JFXPanel;
 import model.entity.enemy.Enemy;
 import model.entity.enemy.TestEnemy;
-import model.entity.tower.BounceTower;
 import model.entity.tower.IceTower;
 import model.entity.tower.projectiles.Projectile;
 

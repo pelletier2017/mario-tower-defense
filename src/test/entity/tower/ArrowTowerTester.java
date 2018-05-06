@@ -1,6 +1,5 @@
 package test.entity.tower;
 
-import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.ArrayList;
@@ -9,12 +8,9 @@ import org.junit.jupiter.api.Test;
 
 import javafx.embed.swing.JFXPanel;
 import javafx.scene.canvas.Canvas;
-import javafx.scene.canvas.GraphicsContext;
 import model.entity.enemy.Enemy;
 import model.entity.enemy.TestEnemy;
-import model.entity.enemy.simple.SimpleEnemy;
 import model.entity.tower.ArrowTower;
-import model.entity.tower.focus.Focus;
 import model.entity.tower.focus.FocusLast;
 import model.entity.tower.projectiles.Projectile;
 

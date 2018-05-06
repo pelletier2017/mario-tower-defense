@@ -6,10 +6,7 @@ import javafx.embed.swing.JFXPanel;
 import model.entity.tower.TowerType;
 import model.entity.tower.projectiles.ProjectileType;
 
-import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.*;
-
-import java.util.ArrayList;
 
 public class TypeTester {
 	

@@ -1,9 +1,6 @@
 package test.entity.tower;
 
-import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.*;
-
-import java.util.ArrayList;
 
 import org.junit.jupiter.api.Test;
 import javafx.embed.swing.JFXPanel;
