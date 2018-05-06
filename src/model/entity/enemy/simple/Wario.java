@@ -1,6 +1,7 @@
-package model.entity.enemy;
+package model.entity.enemy.simple;
 
-import model.sound.EnemySoundEffects;
+import model.entity.enemy.EnemyType;
+import model.sound.soundeffect.EnemySoundEffects;
 
 /**
  * Wario enemy for hard level

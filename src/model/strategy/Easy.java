@@ -3,10 +3,10 @@ package model.strategy;
 import java.io.Serializable;
 import java.util.Random;
 
-import model.entity.enemy.EasyPrincess;
-import model.entity.enemy.EasyToad;
 import model.entity.enemy.Enemy;
-import model.entity.enemy.MediumPrincess;
+import model.entity.enemy.damageresistant.EasyToad;
+import model.entity.enemy.fast.MediumPrincess;
+import model.entity.enemy.simple.EasyPrincess;
 /**
  * Implements game strategy
  * 

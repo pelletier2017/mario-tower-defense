@@ -3,8 +3,8 @@ package test;
 import org.junit.jupiter.api.Test;
 
 import javafx.embed.swing.JFXPanel;
-import model.sound.MapSoundEffects;
 import model.sound.Music;
+import model.sound.soundeffect.MapSoundEffects;
 
 public class TestMapSound {
 	

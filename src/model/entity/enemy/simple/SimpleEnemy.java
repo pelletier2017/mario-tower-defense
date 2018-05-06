@@ -1,4 +1,7 @@
-package model.entity.enemy;
+package model.entity.enemy.simple;
+
+import model.entity.enemy.Enemy;
+import model.entity.enemy.EnemyType;
 
 /**
  * Simple enemy type, average hp, average speed, average size

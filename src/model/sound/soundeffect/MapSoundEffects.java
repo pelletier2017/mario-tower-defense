@@ -1,4 +1,4 @@
-package model.sound;
+package model.sound.soundeffect;
 
 import java.util.HashMap;
 

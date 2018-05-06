@@ -11,8 +11,8 @@ import model.entity.animation.AnimationState;
 import model.entity.map.path.Path;
 import model.entity.statusbar.StatusBar;
 import model.entity.tower.projectiles.Damage;
-import model.sound.EnemySoundEffects;
-import model.sound.SoundEffect;
+import model.sound.soundeffect.EnemySoundEffects;
+import model.sound.soundeffect.SoundEffect;
 import view.MapView;
 
 /**

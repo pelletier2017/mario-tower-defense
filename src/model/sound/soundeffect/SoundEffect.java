@@ -1,4 +1,4 @@
-package model.sound;
+package model.sound.soundeffect;
 
 import java.io.File;
 import java.net.URI;

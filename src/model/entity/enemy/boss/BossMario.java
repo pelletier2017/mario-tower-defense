@@ -1,6 +1,7 @@
-package model.entity.enemy;
+package model.entity.enemy.boss;
 
-import model.sound.EnemySoundEffects;
+import model.entity.enemy.EnemyType;
+import model.sound.soundeffect.EnemySoundEffects;
 
 /**
  * Boss enemy, has Mario animation

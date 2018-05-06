@@ -2,7 +2,7 @@ package test;
 
 import org.junit.jupiter.api.Test;
 
-import model.sound.GuiSoundEffects;
+import model.sound.soundeffect.GuiSoundEffects;
 
 public class TestGuiSound {
 	@Test

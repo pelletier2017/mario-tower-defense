@@ -1,6 +1,8 @@
-package model.entity.enemy;
+package model.entity.enemy.damageresistant;
 
-import model.sound.EnemySoundEffects;
+import model.entity.enemy.Enemy;
+import model.entity.enemy.EnemyType;
+import model.sound.soundeffect.EnemySoundEffects;
 
 /**
  * DamageResistant enemy type, high hp, slow speed

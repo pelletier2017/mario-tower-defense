@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Set;
 
 import model.entity.enemy.Enemy;
-import model.sound.ProjectileSoundEffects;
+import model.sound.soundeffect.ProjectileSoundEffects;
 
 public class Bounce extends Projectile{
 

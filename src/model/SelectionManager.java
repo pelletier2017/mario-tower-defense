@@ -9,8 +9,8 @@ import model.entity.tower.BombTower;
 import model.entity.tower.IceTower;
 import model.entity.tower.Tower;
 import model.entity.tower.TowerType;
-import model.sound.MapSoundEffects;
-import model.sound.ProjectileSoundEffects;
+import model.sound.soundeffect.MapSoundEffects;
+import model.sound.soundeffect.ProjectileSoundEffects;
 import view.MapView;
 
 public class SelectionManager {

@@ -3,7 +3,7 @@ package model.entity.tower.projectiles;
 import java.util.List;
 
 import model.entity.enemy.Enemy;
-import model.sound.ProjectileSoundEffects;
+import model.sound.soundeffect.ProjectileSoundEffects;
 import view.MapView;
 
 public class IceWave extends Projectile {

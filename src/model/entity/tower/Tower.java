@@ -15,7 +15,7 @@ import model.entity.tower.focus.Focus;
 import model.entity.tower.focus.FocusFirst;
 import model.entity.tower.projectiles.Arrow;
 import model.entity.tower.projectiles.Projectile;
-import model.sound.ProjectileSoundEffects;
+import model.sound.soundeffect.ProjectileSoundEffects;
 
 public abstract class Tower extends Animation {
 	

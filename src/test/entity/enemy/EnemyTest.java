@@ -8,25 +8,25 @@ import org.junit.jupiter.api.Test;
 
 import javafx.embed.swing.JFXPanel;
 import javafx.scene.canvas.Canvas;
-import model.entity.enemy.BossMario;
-import model.entity.enemy.DamageResistant;
-import model.entity.enemy.EasyPrincess;
-import model.entity.enemy.EasyToad;
 import model.entity.enemy.Enemy;
-import model.entity.enemy.EnemyBoss;
 import model.entity.enemy.EnemyType;
-import model.entity.enemy.FastEnemy;
-import model.entity.enemy.HardPrincess;
-import model.entity.enemy.HardToad;
-import model.entity.enemy.Luigi;
-import model.entity.enemy.MediumPrincess;
-import model.entity.enemy.MediumToad;
-import model.entity.enemy.SimpleEnemy;
 import model.entity.enemy.TestEnemy;
-import model.entity.enemy.Wario;
+import model.entity.enemy.boss.BossMario;
+import model.entity.enemy.boss.EnemyBoss;
+import model.entity.enemy.damageresistant.DamageResistant;
+import model.entity.enemy.damageresistant.EasyToad;
+import model.entity.enemy.damageresistant.HardToad;
+import model.entity.enemy.damageresistant.MediumToad;
+import model.entity.enemy.fast.FastEnemy;
+import model.entity.enemy.fast.Luigi;
+import model.entity.enemy.fast.MediumPrincess;
+import model.entity.enemy.simple.EasyPrincess;
+import model.entity.enemy.simple.HardPrincess;
+import model.entity.enemy.simple.SimpleEnemy;
+import model.entity.enemy.simple.Wario;
 import model.entity.tower.projectiles.Damage;
-import model.sound.EnemySoundEffects;
-import model.sound.ProjectileSoundEffects;
+import model.sound.soundeffect.EnemySoundEffects;
+import model.sound.soundeffect.ProjectileSoundEffects;
 
 class EnemyTest {
 

@@ -1,4 +1,8 @@
-package model.entity.enemy;
+package model.entity.enemy.fast;
+
+import model.entity.enemy.Enemy;
+import model.entity.enemy.EnemyStats;
+import model.entity.enemy.EnemyType;
 
 /**
  * Fast enemy type, low hp, high speed

@@ -1,4 +1,7 @@
-package model.entity.enemy;
+package model.entity.enemy.boss;
+
+import model.entity.enemy.Enemy;
+import model.entity.enemy.EnemyType;
 
 /**
  * Enemy boss, very high hp, slow speed, bigger size

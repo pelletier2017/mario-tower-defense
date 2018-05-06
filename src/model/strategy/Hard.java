@@ -4,9 +4,9 @@ import java.io.Serializable;
 import java.util.Random;
 
 import model.entity.enemy.Enemy;
-import model.entity.enemy.HardToad;
-import model.entity.enemy.Luigi;
-import model.entity.enemy.Wario;
+import model.entity.enemy.damageresistant.HardToad;
+import model.entity.enemy.fast.Luigi;
+import model.entity.enemy.simple.Wario;
 /**
  * Implements game strategy
  * 

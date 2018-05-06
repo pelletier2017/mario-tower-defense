@@ -4,9 +4,9 @@ import java.io.Serializable;
 import java.util.Random;
 
 import model.entity.enemy.Enemy;
-import model.entity.enemy.HardPrincess;
-import model.entity.enemy.MediumPrincess;
-import model.entity.enemy.MediumToad;
+import model.entity.enemy.damageresistant.MediumToad;
+import model.entity.enemy.fast.MediumPrincess;
+import model.entity.enemy.simple.HardPrincess;
 /**
  * Implements game strategy
  * 
